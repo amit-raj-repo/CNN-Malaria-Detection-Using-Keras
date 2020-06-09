@@ -1,0 +1,2 @@
+# CNN-Malaria-Detection-Using-Keras
+This Repository will help in differentiating between parasitized and non-parasitized cells. This is hosted at NIH's website as well as Kaggle. This can be a starting point for understanding and implementing projects in CNN. The problem requires you to handle big data, perform basic manipulations and you can try out different models and methods. The implementation is in Python on Google Colab.
